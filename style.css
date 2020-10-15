@@ -1,0 +1,9 @@
+@font-face{
+
+	font-family: "x";
+	src: url("x.ttf") format("truetype");
+}
+.x-font{
+
+	font-family:"x";
+}
